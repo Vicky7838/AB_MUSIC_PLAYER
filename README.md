@@ -60,3 +60,23 @@ See also the list of [contributors](https://github.com/amit-bhandari/AB_MUSIC_PL
 [QuickLyric](https://github.com/geecko86/QuickLyric)
 
 
+## Screenshots
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071303/4bb12c36-22d1-11e7-9f69-cfe2e576a090.jpg?raw=true "Optional Title")
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071304/4dc37d62-22d1-11e7-8839-a7fd9a52c6f9.jpg?raw=true "Optional Title")
+
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071305/4f21fdd2-22d1-11e7-9338-18a9d6f33664.jpg?raw=true "Optional Title")
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071313/5be23cee-22d1-11e7-94ed-eab022d1e6ee.jpg?raw=true "Optional Title")
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071306/5081775c-22d1-11e7-9b05-28cf1bbc8a6f.jpg?raw=true "Optional Title")
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071308/5202adf8-22d1-11e7-91a4-a965c2174fd1.jpg?raw=true "Optional Title")
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071309/537224b6-22d1-11e7-9759-4075766d253e.jpg?raw=true "Optional Title")
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071310/553f688a-22d1-11e7-9d4d-a97a4ed7de61.jpg?raw=true "Optional Title")
+
+![AB Music](https://cloud.githubusercontent.com/assets/16557921/25071312/57a00102-22d1-11e7-8171-ee6c36da0a53.jpg?raw=true "Optional Title")
