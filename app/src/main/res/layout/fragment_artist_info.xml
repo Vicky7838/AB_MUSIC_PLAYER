@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scroll_view_Art_info"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/ll_art_bio"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_art_bio_frag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:textColorLink="@color/colorSleepTimer"
+                android:textSize="20sp"
+                android:typeface="monospace"
+                android:text="@string/artist_info_loading"
+                android:textColor="@color/nowPlayingText" />
+
+            <TextView
+                android:id="@+id/retry_text_view"
+                android:layout_width="match_parent"
+                android:visibility="gone"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:textSize="20sp"
+                android:typeface="monospace"
+                android:text="@string/tap_to_refresh_art_bio"
+                android:textColor="@color/nowPlayingText" />
+
+            <TextView
+                android:id="@+id/double_tap_to_see_art_bio"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/double_tap_art_info"
+                android:gravity="center"
+                android:layout_margin="20dp"
+                android:textSize="20sp"
+                android:typeface="monospace"
+                android:visibility="gone"
+                android:textColor="@color/nowPlayingText" />
+
+            <com.wang.avi.AVLoadingIndicatorView
+                android:id="@+id/loading_lyrics_animation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                app:indicatorName="BallGridPulseIndicator"
+                />
+
+            <EditText
+                android:id="@+id/track_artist_artsi_bio_frag"
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="@color/nowPlayingText"
+                android:layout_height="wrap_content"
+                android:inputType="textNoSuggestions" />
+
+            <Button
+                android:id="@+id/button_update_metadata"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/nowPlayingText"
+                android:background="@color/colorTransparent"
+                android:foreground="@drawable/border_1dp"
+                android:text="@string/update_tags"/>
+
+            <TextView
+                android:visibility="gone"
+                android:paddingTop="10dp"
+                android:id="@+id/update_track_metadata"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:typeface="monospace"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:text="@string/artist_tag_update"
+                android:textColor="@color/nowPlayingText"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

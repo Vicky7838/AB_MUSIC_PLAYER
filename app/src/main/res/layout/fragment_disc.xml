@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:id="@+id/root_view_disc"
+    android:layout_height="match_parent">
+
+    <com.music.player.bhandari.m.customViews.nowplaying.MusicPlayerView
+        android:layout_weight="5"
+        android:foregroundGravity="center"
+        android:background="@color/colorTransparent"
+        android:id="@+id/mpv"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"/>
+
+</LinearLayout>

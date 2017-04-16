@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#060606</color>
+    <color name="colorPrimaryTransparent">#80005252</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorPrimaryDarkTransparent">#80004A4A</color>
+    <color name="colorAccent">#1e1e1e</color>
+
+    <color name="miniPlayerColor">#7A7278</color>
+
+
+    <color name="colorRed">#0a0a0a</color>
+    <color name="colorSleepTimer">#f959c8</color>
+    <color name="colorwhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorYellow">#fffb00</color>
+
+    <color name="light_gray1">#dddddd</color>
+    <color name="light_gray2">#D0D0D0</color>
+    <color name="light_text">#040404</color>
+
+    <color name="gray3">#FF514A4E</color>
+    <color name="darkgray">#313030</color>
+
+    <color name="dark_gray1">#616161</color>
+    <color name="dark_gray2">#585757</color>
+    <color name="dark_text">#ffffff</color>
+
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="blackTransparent">#77000000</color>
+    <color name="blackTransparentLight">#20000000</color>
+
+    <color name="backkColorForNotification">#dd000000</color>
+
+    <color name="lightThemeAccent">#6f6f70</color>
+    <color name="darktThemeAccent">#959597</color>
+    <color name="nowPlayingAccent">#0d0d0d</color>
+
+    <color name="nowPlayingText">#ebebec</color>
+</resources>
+

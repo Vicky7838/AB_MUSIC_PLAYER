@@ -1,0 +1,314 @@
+<resources>
+    <string name="app_name">AB Music Lyrics</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_shuffle_all">Shuffle All</string>
+    <string name="action_refresh_library">Refresh Library</string>
+
+    <!-- menu for oveflow menu -->
+    <string name="action_play">Play</string>
+    <string name="action_add_to_playlist">Add to Playlist</string>
+    <string name="action_edit_track_info">Edit Track info</string>
+    <string name="action_clear_offline_lyrics">Clear lyrics</string>
+    <string name="action_edit_info">Edit info</string>
+    <string name="action_track_info">Track info</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_go_to_artist">Go to Artist</string>
+    <string name="action_go_to_album">Go to Album</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="action_add_to_q">Add to Queue</string>
+    <string name="action_set_as_ringtone">Set as Ringtone</string>
+
+
+    <!-- menu for drawer -->
+    <string name="nav_tracks">Tracks    </string>
+    <string name="nav_artist">Artists   </string>
+    <string name="nav_albums">Albums    </string>
+    <string name="nav_genre" >Genres    </string>
+    <string name="nav_folder">Folder    </string>
+  <string name="nav_playlist">Playlist  </string>
+
+
+    <!-- strings for shared preferences -->
+    <string name="pref_disc_rotation">pref_disc_rotation</string>
+    <string name="pref_disc_rotation_speed">pref_disc_rotation_speed</string>
+    <string name="pref_hide_short_clips">pref_hide_short_clips</string>
+    <string name="pref_album_lib_view">pref_album_lib_view</string>
+    <string name="pref_rescan_lib">pref_rescan_lib_view</string>
+    <string name="pref_click_on_notif">pref_click_on_notif</string>
+    <string name="pref_about_us">pref_click_about</string>
+    <string name="pref_about_licenses">pref_click_license</string>
+    <string name="pref_sleep_timer">pref_sleep_timer</string>
+    <string name="pref_disc_size">dis_size</string>
+    <string name="pref_lock_screen_album_Art">lock_screen_art</string>
+    <string name="pref_shake">shake_status</string>
+    <string name="pref_shake_action">shake_action</string>
+    <string name="pref_theme">base_theme</string>
+    <string name="pref_theme_color">primary_color</string>
+    <string name="pref_random_theme_current_color">random_theme_current</string>
+    <string name="pref_support_dev">support_dev</string>
+    <string name="pref_hide_tracks_starting_with">hide_tracks_starting_with</string>
+    <string name="pref_hide_tracks_starting_with_1">hide_tracks_starting_with_1</string>
+    <string name="pref_hide_tracks_starting_with_2">hide_tracks_starting_with_2</string>
+    <string name="pref_hide_tracks_starting_with_3">hide_tracks_starting_with_3</string>
+    <string name="pref_reset_pref">reset_pref</string>
+    <string name="pref_opening_tab">opening_tab</string>
+    <string name="pref_text_font">text_font</string>
+    <string name="pref_first_install">first_install</string>
+    <string name="pref_exit_now_playing_at">pref_exit_now_playing_at</string>
+
+    <string name="pref_album_sort_by">a_sort_by</string>
+    <string name="pref_tracks_sort_by">t_sort_by</string>
+    <string name="pref_artist_sort_by">art_sort_by</string>
+    <string name="pref_genre_sort_by">g_sort_by</string>
+    <string name="pref_order_by">order_by</string>
+    <string name="pref_version_code">version_code</string>
+
+    <string name="pref_show_edit_track_info_dialog">pref_show_edit_track_info_dialog</string>
+    <string name="pref_show_lock_info_dialog">show_lock_info_dialog</string>
+    <string name="pref_hide_lock_button">hide_music_lock_button</string>
+    <string name="pref_swipe_right">pref_swipe_right</string>
+
+    <!-- info messages preferences  -->
+    <string name="pref_lock_button_info_shown">pref_lock_button_info_shown</string>
+    <string name="pref_mini_player_info_shown">pref_mini_player_info_shown</string>
+    <string name="pref_sorting_info_shown">pref_sorting_info_shown</string>
+
+    <string name="pref_fav_info_shown">pref_fav_info_shown</string>
+    <string name="pref_current_queue_info_shown">pref_current_queue_info_shown</string>
+    <string name="pref_swipe_right_shown">pref_swipe_right_shown</string>
+
+
+    <string name="title_text_font">Music Library Text Font</string>
+    <string name="title_hide_lock_button">Hide Music Lock Button</string>
+    <string name="title_opening_tab">Tab to show on Launch</string>
+    <string name="title_reset_pref">Reset Preferences to Default</string>
+    <string name="title_hide_tracks_starting_with">Hide tracks starting with</string>
+    <string name="title_support_dev">Support Development (Donate)</string>
+    <string name="title_theme">Base Theme</string>
+    <string name="title_theme_color">Primary Color</string>
+    <string name="title_shake_action">Shake will</string>
+    <string name="title_shake">Shake Control</string>
+    <string name="title_lock_screen_album_Art">Lock Screen Album Art</string>
+    <string name="title_disc_size">Disc Size</string>
+    <string name="title_sleep_timer">Sleep Timer</string>
+    <string name="title_licenses">Licenses </string>
+    <string name="title_about_us">About </string>
+    <string name="title_tag_editor">Music Tag Editor </string>
+    <string name="title_click_on_notif">Click on Notification Opens</string>
+    <string name="title_rescan_lib">Rescan Music Library</string>
+    <string name="title_album_lib_view">Album Library View</string>
+    <string name="title_hide_short_clips">Hide Audio tracks Shorter than</string>
+
+    <!-- strings for abput us -->
+    <string name="au_email_id">amit.bhandari@outlook.in </string>
+    <string name="au_version">Version 1.0.0 </string>
+    <string name="au_made_with_love">Made with </string>
+    <string name="au_made_in_india">in India </string>
+
+    <!-- strings for licenses -->
+    <string name="li_title">Third party Libraries used</string>
+    <string name="li_libraries"> \ Picasso
+        \nSlidingUpPanel by Umano
+        \nRecycler-fast-scroller</string>
+    <string name="li_apache_lic">All the libraries are licensed under apache license. You can see license on a link given below.</string>
+    <string name="li_apache_lic_link">&lt;a href="https://www.apache.org/licenses/LICENSE-2.0">Apache license&lt;/a></string>
+    <string name="li_icon">Thank you Inderjeet Singh for designing the app icon </string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3876828674787345/6034922915</string>
+
+
+    <string name="donate_coffee">donate_coffee</string>
+    <string name="donate_beer">donate_beer</string>
+    <string name="donate_beer_box">donate_beer_box</string>
+
+
+0    <!-- share app -->
+    <string name="share_app">https://play.google.com/store/apps/details?id=com.bhandari.music</string>
+
+    <!-- rate app -->
+    <string name="rate_us">If you like the app, please take a time to leave a review on store as it encourages me more to deliver
+        more stuff!</string>
+
+    <!-- tag editor -->
+    <string name="touch_art">Touch the album art to change</string>
+    <string name="changes_discard_alert_te">You have made changes in some tags, do you want to save those?</string>
+
+    <!--music lock alert message -->
+    <string name="lock_info">How often have you ruined the song because of wrong touch! Imagine you are enoying the best part of the song
+        while going through library and by mistake you click on some song and baaam, your mood is ruined. This button is here for rescue.
+        Whenever you want to enjoy a song without interruption and browse gallery meanwhile, just lock the music by using this button and
+        player will not change song unless and until you unlock it again!</string>
+
+    <string name="tag_edit_info">All the changes done in music tag are local to device. Actual audio file is not modified!</string>
+
+    <string name="album_art_dir_name">albumArtThumbsABMusic</string>
+
+    <string name="tap_to_refresh_lyrics">Lyrics not found, Touch here to retry!</string>
+    <string name="lyrics_coming_soon">Lyrics coming soon!</string>
+    <string name="tap_to_refresh_art_bio">Unable to fetch artist bio, Please make sure audio is correctly tagged! \n
+        Touch here to retry!</string>
+    <string name="lyrics_loading">Loading lyrics, please wait…</string>
+    <string name="no_connection">No connection! Touch here to retry!</string>
+    <string name="artist_info_loading">Loading artist bio, please wait…!</string>
+    <string name="artist_info_no_result">Unable to search artist bio, make sure that audio tags are correct and touch here to retry!</string>
+    <string name="lyrics_tag_update">Please make sure audio tags are correct!</string>
+    <string name="artist_tag_update">Please make sure audio tags are correct!</string>
+    <string name="update_tags">Update</string>
+    <string name="double_tap_art_info">Double tap here to see artist bio!</string>
+
+
+    <!--first time info messages -->
+    <string name="music_lock_primary">Try music lock feature</string>
+    <string name="music_lock_secondary">Tap the button to lock the music!</string>
+
+    <string name="mini_player_primary">Smooth music control from here!</string>
+    <string name="mini_player_secondary">Tap to launch now playing!</string>
+
+    <string name="sorting_primary">Try sorting your music on the go!</string>
+    <string name="sorting_secondary">Tap the sort music!</string>
+
+    <string name="fav_primary">Add track to fav</string>
+    <string name="fav_secondary">Tap here to add track to My Fav Playlist!"</string>
+
+    <string name="current_queue_primary">Current Queue!</string>
+    <string name="current_queue_secondary">Tap to manage current queue!</string>
+
+    <string name="swipe_right_primary">Swipe right!</string>
+    <string name="swipe_right_secondary">Try swiping right here to see artist info!</string>
+
+
+    <!--licenses -->
+
+    <string name="last_fm_declaration">All the artist bio and images have copyright of last.fm and I claim no ownership
+    for those! </string>
+
+    <string name="apache_libraries">  \u0020android appcompat-v7 \n android support-v4 \n android support design \n
+                                        android support cardview \n com.wang.avi:library  \n com.sothree.slidinguppanel \n
+    com.squareup:seismic \n jp.wasabeef:blurry \n com.github.viethoa:fastscroller \n com.squareup.retrofit:retrofit
+      \n com.squareup.okhttp:okhttp \n com.getkeepsafe.taptargetview:taptargetview \n com.sackcentury:shinebutton:0.1.7 </string>
+
+    <string name="apache_license">Above mentioned libraries are Licensed under the Apache License, Version 2.0 (the "License"); \n
+You may not use this file except in compliance with the License.\n
+You may obtain a copy of the License at\n\n
+
+   http://www.apache.org/licenses/LICENSE-2.0
+\n\n
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.</string>
+
+    <string name="MIT_libraries">org.jsoup:jsoup \n </string>
+
+    <string name="MIT_license">Above libraries are licensed under The MIT License\n\n
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\n
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. \n
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</string>
+
+    <string name="glide_library">bumptech.glide</string>
+
+    <string name="glide_license">Above library is License under \n\n
+
+Copyright 2014 Google, Inc. All rights reserved.
+\n
+Redistribution and use in source and binary forms, with or without modification, are
+permitted provided that the following conditions are met:
+        \n
+
+   1. Redistributions of source code must retain the above copyright notice, this list of
+         conditions and the following disclaimer.\n
+
+   2. Redistributions in binary form must reproduce the above copyright notice, this list
+         of conditions and the following disclaimer in the documentation and/or other materials
+         provided with the distribution.\n
+
+THIS SOFTWARE IS PROVIDED BY GOOGLE, INC. ``AS IS\'\' AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL GOOGLE, INC. OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+\n
+The views and conclusions contained in the software and documentation are those of the
+authors and should not be interpreted as representing official policies, either expressed
+or implied, of Google, Inc.\n
+---------------------------\n
+License for third_party/disklrucache:
+\n
+Copyright 2012 Jake Wharton\n
+Copyright 2011 The Android Open Source Project
+\n
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+\n\n
+   http://www.apache.org/licenses/LICENSE-2.0
+\n\n
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+\n---------------------------\n
+License for third_party/gif_decoder:
+\n
+Copyright © 2013 Xcellent Creations, Inc.
+\n
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+\n
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+\n
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n
+-----------------------------\n
+License for third_party/gif_encoder/AnimatedGifEncoder.java and
+third_party/gif_encoder/LZWEncoder.java:
+\n
+No copyright asserted on the source code of this class. May be used for any
+purpose, however, refer to the Unisys LZW patent for restrictions on use of
+the associated LZWEncoder class. Please forward any corrections to
+kweiner@fmsware.com.
+\n
+---------------------------\n
+        License_party/gif_encoder/NeuQuant.java
+\n
+Copyright © 1994 Anthony Dekker
+\n
+NEUQUANT Neural-Net quantization algorithm by Anthony Dekker, 1994. See
+"Kohonen neural networks for optimal colour quantization" in "Network:
+Computation in Neural Systems" Vol. 5 (1994) pp 351-367. for a discussion of
+the algorithm.
+\n
+Any party obtaining a copy of these files from the author, directly or
+indirectly, is granted, free of charge, a full and unrestricted irrevocable,
+world-wide, paid up, royalty-free, nonexclusive right and license to deal in
+this software and documentation files (the "Software"), including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons who
+receive copies from any such party to do so, with the only requirement being
+that this copyright notice remain intact.</string>
+
+</resources>
