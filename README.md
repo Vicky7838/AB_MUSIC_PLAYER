@@ -2,8 +2,7 @@
 
 ![AB Music](/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "Optional Title")
 
-[![Demo CountPages alpha](https://gfycat.com/ifr/GiganticKlutzyAlbino)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
+![Output sample](https://gfycat.com/GiganticKlutzyAlbino)
 
 AB Music Player with efficient and attractive material design and compact size which gives you smooth experience of playing offline music seamlessly on your mobile. 
 One of the best music player which will fulfill all your needs to play offline music with simplicity. 
